@@ -10,7 +10,7 @@
 
 ## Steps
 
-1. Build the team
+### 1. Build the team
 
 a. Forming
 
@@ -41,25 +41,25 @@ Triangle:
 5. Accountable (Performance)
 
 
-2. Keep the Team Focus
+### 2. Keep the Team Focus
 
 - Keep the team focus on the next milestone and task
 - Leaders must set the goals
 - Build team and goals
 - Work together
 
-3. Manage Risks
+### 3. Manage Risks
 
 - Working through the milestones
 - Handle risk, roadblocks, constraints, miss opportunity
 
-4. Track Finances
+### 4. Track Finances
 
 - PM needs to know the budget
 - Profit
 - Minimize the risk
 
-5. Plan
+### 5. Plan
 
 - We have team
 - We have target
@@ -69,7 +69,7 @@ Triangle:
 - Short iterable plan
 - Longest plan, every body needs to know the plan
 
-6. Solved the problems
+### 6. Solved the problems
 
 - IDS
 - I = Identify
